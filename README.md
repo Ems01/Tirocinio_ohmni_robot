@@ -1,3 +1,3 @@
 # tirocinio_ohmni_robot
 
-Qui è presente il codice sviluppato e modificato di un tirocinio. Viene qui lasciato affinchè chi continuerà dopo di me lo possa avere a disposizione.
+Qui è presente il file zip del codice sviluppato e modificato del tirocinio. L'obiettivo è il movimento autonomo del robot Ohmni. E' presente anche la tesi sviluppata con tutti i passaggi e gli esperimenti compiuti.
